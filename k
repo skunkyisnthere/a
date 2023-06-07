@@ -1,1 +1,1 @@
-$ git clone https://github.com/TheTIW/UV-Static
+git clone https://github.com/TheTIW/UV-Static
